@@ -9,4 +9,6 @@ idade = int(input("DIGITE SUA IDADE: "))
 if idade >= 18:
     print("VOCÊ TEM IDADE PARA DIRIGIR")
 else:
+
     print("VOCÊ NÃO TEM IDADE SUFICIENTE PARA DIRIGIR")
+    
